@@ -1,0 +1,6 @@
+{
+  "name": "Botica VyR",
+  "description": "Botica VyR: atención farmacéutica profesional, dermocosmética, vitaminas y entrega express a domicilio con asesoría en línea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
